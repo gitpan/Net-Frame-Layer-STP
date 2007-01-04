@@ -5,5 +5,5 @@ if ($@) {
    skip("Test::Pod::Coverage required for testing");
 }
 else {
-   pod_coverage_ok("Net::Frame::Layer::ICMPv4");
+   pod_coverage_ok("Net::Frame::Layer::STP");
 }

@@ -1,11 +1,11 @@
 #
-# $Id: STP.pm,v 1.1 2007/01/03 21:54:58 gomor Exp $
+# $Id: STP.pm,v 1.2 2007/01/04 23:30:34 gomor Exp $
 #
 package Net::Frame::Layer::STP;
 use strict;
 use warnings;
 
-our $VERSION = '1.00';
+our $VERSION = '1.01';
 
 use Net::Frame::Layer qw(:consts);
 require Exporter;
